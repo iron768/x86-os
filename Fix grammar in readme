@@ -1,7 +1,7 @@
 # x86-os
 A small operating system made by using the tutorial https://github.com/cfenollosa/os-tutorial and https://wiki.osdev.org/
 
-I implemented some fixes but since I have accomplished my goal of getting a better understanding of x86 Assembly and C before my assembly and computer architecture course. Which I feel that this project worked given I got a A-. This project is considered abandonded, feel free to fork and do what you want with it though.
+I implemented some fixes but since I have accomplished my goal of getting a better understanding of x86 Assembly and C before my assembly and computer architecture course, this project is considered abandonded, feel free to fork and do what you want with it though.
 
 ## Requirements
 I ran this on a M1 Mac, I think the following depedencies should be the same on Linux (and for Windows users you can use WSL).
